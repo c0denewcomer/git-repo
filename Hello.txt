@@ -1,3 +1,4 @@
 printf("Hello,world!");
 printf("Here some text");
 12.10.15
+printf('Hello my dear friend');
