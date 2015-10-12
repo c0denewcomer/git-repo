@@ -1,5 +1,5 @@
-printf("Hello,world!");
-printf("Here some text");
+printf("Hello,world!;");
+printf("Here some text;");
 12.10.15 14:20
-printf('Hello my dear friend');
+printf('Hello my dear friend;');
 14:25
